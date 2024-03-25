@@ -5,3 +5,10 @@ C:\Users\Aluno\source\repos\plataforma_parte_interna\bin\Debug\plataforma_parte_
 C:\Users\Aluno\source\repos\plataforma_parte_interna\bin\Debug\plataforma_parte_interna.pdb
 C:\Users\Aluno\source\repos\plataforma_parte_interna\obj\Debug\plataforma_parte_interna.exe
 C:\Users\Aluno\source\repos\plataforma_parte_interna\obj\Debug\plataforma_parte_interna.pdb
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\bin\Debug\plataforma_parte_interna.exe.config
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\bin\Debug\plataforma_parte_interna.exe
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\bin\Debug\plataforma_parte_interna.pdb
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\obj\Debug\plataforma_parte_interna.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\obj\Debug\plataforma_parte_interna.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\obj\Debug\plataforma_parte_interna.exe
+C:\Users\Aluno\source\repos\dapl_trabalho_1t\Plataforma_de_alunos\obj\Debug\plataforma_parte_interna.pdb
